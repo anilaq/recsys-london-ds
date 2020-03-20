@@ -22,7 +22,11 @@ After the lesson, students should be able to...
 
 > 90 minute lecture
 
-I. 
+I. Introduction of General Problems (15 minutes)
+II. Dive into Math (20 minutes) 
+III. Break (10 minutes) 
+IV. Code Along (Brief Example, 20 minutes)
+V. Exit Ticket (10 minutes take, 5 review)
 
 ## Additional Readings and Resources:
 
