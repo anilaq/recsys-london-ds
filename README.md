@@ -4,7 +4,7 @@ This repository contains information for the materials used in for London Flatir
 Materials for this lecture is built off of work done by [Yish and her movie reccomendation system lecture](https://github.com/yishuen/meetup-movie-recommender) as well as work from the [Seattle campus](https://github.com/learn-co-students/recommendation_systems_seattle-ds).
 
 * [Slides](https://docs.google.com/presentation/d/1OWA8ZIdGqROa2B2UUd5eyB3lHEBxud5bPLngxjNsqHE/edit?usp=sharing)
-* [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSekFTzVUNhNgybX1SyS9WgZOB6manCKibiF-pYj4fAtoVCehQ/viewform)
+* [Exit Ticket | WIP]()
 
 ## Learning Objectives 
 
